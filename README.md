@@ -1,10 +1,10 @@
-#Algoritmo de Ford-Fulkerson
+# Algoritmo de Ford-Fulkerson
 Usando o Algoritmo de Ford-Fulkerson é possivel resolver problemas do dia a dia, como o fluxo da água, do caminho da origem até os locais de destino.
 
-#Como Funciona o Algoritmo de Ford-Fulkerson
+# Como Funciona o Algoritmo de Ford-Fulkerson
 O algoritmo de Ford-Fulkerson opera encontrando iterativamente "caminhos de aumento" da fonte ao sumidouro na rede residual. Um caminho de aumento é uma rota onde ainda é possível enviar mais fluxo. A cada iteração:
 
-#Como compilar o código
+# Como compilar o código
 
 1 passo: Abrir o prompt de comandp (cmd)
 2 passo: No terminal digitar cd(pasta em que o programa está) ex: cd Downloads
